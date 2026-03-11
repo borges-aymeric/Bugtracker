@@ -12,7 +12,7 @@ Application de suivi de bugs (tickets) en PHP avec MySQL.
 
 1. Cloner le dépôt
 2. Créer la base de données et importer `sae203.sql`
-3. Configurer la connexion dans `connexion.php` (ou utiliser un fichier de config exclu du dépôt)
+3. Configurer la connexion dans `connexion.php`
 
 ## Structure
 
